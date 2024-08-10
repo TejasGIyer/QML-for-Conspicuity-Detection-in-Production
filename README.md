@@ -47,6 +47,7 @@ _Include a comprehensive summary of all important information about your project
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 - Write-up for Task-1 [here](https://github.com/TejasGIyer/QML-for-Conspicuity-Detection-in-Production/blob/main/Write-up%20for%20Task-1.pdf)
 - Notes and Learnings from Task-1 [here](https://github.com/TejasGIyer/QML-for-Conspicuity-Detection-in-Production/blob/main/Task-1%20Notes.pdf)
+- Task-2 [here](https://github.com/TejasGIyer/QML-for-Conspicuity-Detection-in-Production/blob/main/Variational%20Classifier.ipynb)
 
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
