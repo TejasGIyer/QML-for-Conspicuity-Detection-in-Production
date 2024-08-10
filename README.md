@@ -48,6 +48,7 @@ All necessary code files and any additional information required to judge your p
 - Write-up for Task-1 [here](https://github.com/TejasGIyer/QML-for-Conspicuity-Detection-in-Production/blob/main/Write-up%20for%20Task-1.pdf)
 - Notes and Learnings from Task-1 [here](https://github.com/TejasGIyer/QML-for-Conspicuity-Detection-in-Production/blob/main/Task-1%20Notes.pdf)
 - Task-2 [here](https://github.com/TejasGIyer/QML-for-Conspicuity-Detection-in-Production/blob/main/Variational%20Classifier.ipynb)
+- Task-3 [here](https://github.com/TejasGIyer/QML-for-Conspicuity-Detection-in-Production/blob/main/Quanvolutional%20Neural%20Networks.ipynb)
 
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
